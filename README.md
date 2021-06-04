@@ -6,7 +6,6 @@ Data Provider: https://newsapi.org/
 
 API Documentation: https://newsapi.org/docs
 
-Youtube Tutorial Link: https://youtu.be/M8gRcFRdhxo
 
 <p float="left">
   <img src="https://cdn.zochil.shop/c76c9867-69a4-4a50-b032-2286326a798c_t500.png" width="270">
